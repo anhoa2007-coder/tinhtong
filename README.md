@@ -2,6 +2,8 @@
 
 Đây là chương trình C++ đơn giản dùng để nhận hai số thực từ người dùng, sau đó tính toán và in ra tổng và hiệu của chúng.
 
+*Chương trình này sẽ không được cập nhật trong tương lai, cần lưu ý*
+
 ---
 
 ## 💻 Mã Nguồn `Untitled-1.cpp`
